@@ -15,6 +15,5 @@
 **RFC-2350**: [CERTar - RFC2350.txt](https://github.com/cert-ar/rfc2350)  
 **PGP-Key**: [CERTar - PGP](https://github.com/cert-ar/PGP-Key)  
 
----  
-
+---
 **Proyectos**: [CERTar - Repositorios](https://github.com/cert-ar?tab=repositories)  
