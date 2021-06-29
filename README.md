@@ -19,3 +19,6 @@
 ---
 
 **Proyectos**: [CERTar - Repositorios](https://github.com/cert-ar?tab=repositories)  
+
+
+ > • **Red Federal de Intercambio de Indicadores de Compromiso**: [CERTar - Red Federal de Intercambio](https://github.com/cert-ar/Red-Federal-de-Intercambio)  
