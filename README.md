@@ -22,3 +22,4 @@
 
 
  > • **Red Federal de Intercambio de Indicadores de Compromiso**: [CERTar - Red Federal de Intercambio](https://github.com/cert-ar/Red-Federal-de-Intercambio)  
+ > • **Guia de Gestión de Incidentes**: [CERTar - RCM - GGI - 001](https://github.com/cert-ar/Guias/)
